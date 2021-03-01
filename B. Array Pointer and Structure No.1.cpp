@@ -1,5 +1,5 @@
 /*Tugas2 Prak. Struktur Data*/
-/*B. Array Pointer and Structure */
+/*B. Array Pointer and Structure No.1*/
 /*Filza Hisana*/
 /*NIM: 20051397018*/
 
