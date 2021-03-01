@@ -1,3 +1,8 @@
+/*Tugas1 Prak. Struktur Data*/
+/*C. Structure*/
+/*Filza Hisana*/
+/*NIM: 20051397018*/
+
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
